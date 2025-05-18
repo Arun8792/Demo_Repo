@@ -4,8 +4,8 @@ this is the demo repository does not contain any thing.
 
 # Teacher
 
-Shraddha kapra
+Shraddha kapra.
 
 # student
 
-Arun a b
+Arun a b.
